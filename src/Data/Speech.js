@@ -1,0 +1,1 @@
+export let speechArray = ["Dæven døtte", "Kjøp meg noe godt da", "Hvis du først feiler: skill issue", "Det er for sure en ukedag i dag", "Navnet mitt er egentlig ikke Jonas"];
