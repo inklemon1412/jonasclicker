@@ -1,1 +1,15 @@
-export let speechArray = ["Dæven døtte", "Kjøp meg noe godt da", "Hvis du først feiler: skill issue", "Det er for sure en ukedag i dag", "Navnet mitt er egentlig ikke Jonas"];
+export let speechArray = ["Dæven døtte", 
+    "Kjøp meg noe godt da", 
+    "Hvis du først feiler: skill issue", 
+    "Det er for sure en ukedag i dag", 
+    "Navnet mitt er egentlig ikke Jonas",
+    "Hadde ikke vært så ille med en snus nå gitt",
+    "Hva er det aller første en lege gjør om morgenen? Åpner øya sine",
+    "Skulle ønske jeg var på en øde øy...",
+    "Vil du høre en vits? Katta med- Nei? Ingen vitser?",
+    "Hvis jeg var en mark? Hadde du fremdeles spilt dette spillet?",
+    "Næmmen så mange poeng du har da!",
+    "Hvis du får 100 poeng kan du kjøpe deg en kul boks! Hvis du allerede har 100 poeng burde du ha kjøpt det for lengst",
+    "Hodepine... Sprettet opp-og-ned for mange ganger...",
+    "Er et lite rykte om at hvis du skulle få 5000 poeng, så skjer det noe gøy"
+];
